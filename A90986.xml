@@ -1,0 +1,632 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new disputation betweene the two lordly bishops, Yorke and Canterbvry. With a discourse of many passages which have happened to them, before and since that they were committed to the Tower of London. : Being very necessary for observation and well worth the reading.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90986</idno>
+            <idno type="STC">Wing P3378B</idno>
+            <idno type="STC">ESTC R210168</idno>
+            <idno type="EEBO-CITATION">45789385</idno>
+            <idno type="OCLC">ocm 45789385</idno>
+            <idno type="VID">172695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172695)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2645:26, 2983:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new disputation betweene the two lordly bishops, Yorke and Canterbvry. With a discourse of many passages which have happened to them, before and since that they were committed to the Tower of London. : Being very necessary for observation and well worth the reading.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, corrected and enlarged. /</edition>
+               </editionStmt>
+               <extent>[1], 12 p., [1] leaf of plates : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproductions of original in: Christ Church (University of Oxford). Library (reels 2645:26 and 2983:4).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laud, William, 1573-1645 --  Humor.</term>
+               <term>Williams, John, 1582-1650 --  Humor.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor.</term>
+               <term>Great Britain --  Religion --  17th century --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="fronispiece">
+            <pb facs="tcp:172695:1"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:172695:1"/>
+            <!-- PDF PAGE 26 -->
+            <p>
+               <figure>
+                  <head>Yorke</head>
+               </figure>
+               <pb facs="tcp:172695:2"/>
+               <!-- PDF PAGE 27 -->
+               <figure>
+                  <head>Canter.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:172695:2"/>
+            <!-- PDF PAGE 27 -->
+            <p>A NEW DISPUTATION Betweene the two Lordly Biſhops, YORKE and CANTERBVRY.</p>
+            <p>With a Diſcourſe of many paſſages which have happened to them, before and ſince that they were committed to the Tower of LONDON.</p>
+            <p>Being very neceſſary for obſervation, and well worth the Reading.</p>
+            <p>The ſecond Edition, corrected and enlarged.</p>
+            <p>
+               <hi>Written in Engliſh PROSE by Laurence Price,</hi> February the 15. 1642.</p>
+            <q>
+               <l>The ſimple ſort lives moſt at reſt,</l>
+               <l>Whil'ſt Lordly Biſhops are diſtreſt.</l>
+            </q>
+            <p>London Printed for J. Wright. 1642.</p>
+            <pb facs="tcp:172695:3"/>
+            <!-- PDF PAGE 28 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172695:3"/>
+            <!-- PDF PAGE 28 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172695:4"/>
+            <!-- PDF PAGE 29 -->
+            <figure/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:172695:4"/>
+            <!-- PDF PAGE 29 -->
+            <head>A New DISPVTATION Betweene the two Lordly Biſhops, YORKE and CANTERBURY.</head>
+            <sp>
+               <speaker>Yorke.</speaker>
+               <p>FEllow and friend as a man may ſay, you'r well overtaken; who would have thought to have ſeene you here at this time of the day?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Prethée</hi> York <hi>be medling with ſome others matters, and talke not to me. I am not thy fellow yet; and thou knoweſt I was never thy friend, tis wel for you that you are ſo light-hearted, I tell you truly I am heavy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Why <hi>Canterbury,</hi> if I may not be ſo bold as to call you fellow nor friend, yet I am ſure we are neighbours; how long ever 'twill laſt I cannot tell: and whereas you ſay you are very heavy (if I am not much <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſtaken)
+<pb n="2" facs="tcp:172695:5"/>
+                  <!-- PDF PAGE 30 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:172695:5"/>
+                  <!-- PDF PAGE 30 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:172695:6"/>
+                  <!-- PDF PAGE 31 -->You will be made lighter by the head before three moneths come to an end, I am ſure you have well enough deſerved for it.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Neighbour</hi> Yorke, <hi>if you will be ſo cal'd, here we are both forth-comming though not comming forth, if thou haſt any thing to charge me with, ſpeake thy mind and ſpare not, I feare thée not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>And ſhall I ſpeake my mind freely?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Ah, ſay what thou canſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>I am in doubt I ſhall make you angry?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Feare not that, nor ſpare no ſpéech.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Then <hi>Canterbury</hi> marke what I ſhall ſay to thee, <hi>I</hi> verily thinke if thou were re<g ref="char:EOLhyphen"/>warded anſwerable to thy deeds, thou ſhoul<g ref="char:EOLhyphen"/>deſt be ſerved as the two Romiſh Prieſts were in <hi>January,</hi> which were benefactors for the Pope.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Why how were they ſerved?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Thus, firſt they tooke ſhipping at Newgate, afterwards ſayled up Holborne, and came a ſhore at Tyburne.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>And have I deſerved to be drawne hang'd and quartered?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>
+                  <hi>If</hi> thou were as ſure to have it as thou haſt deſerv'd for it, thy turne would be the next.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>I wonder</hi> Yorke <hi>why thou ſhouldeſt
+<pb n="3" facs="tcp:172695:6"/>
+                     <!-- PDF PAGE 31 -->be ſo ambitious, and to paſſe raſh iudgment againſt me? thou art like him that can diſ<g ref="char:EOLhyphen"/>cerne a little mote in another mans eye; but thou canſt not ſée a beame in thine own eye: for any thing I can perceive, our caſes are both a like, I am in the Tower of</hi> London, <hi>ſo are you, I am here kept a Priſoner, ſo are you, I am like to ſuffer death for my miſ<g ref="char:EOLhyphen"/>deeds, and ſo are you. Wherefore then ſhould you not rather ſtudy to cure your own diſea<g ref="char:EOLhyphen"/>ſes, then to apply a playſter to my wound.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Stay, ſtay, a little my little Lord, you put me in mind of wounds and grievances, <hi>I</hi> pray you tell me one thing if you can remem<g ref="char:EOLhyphen"/>ber it, how hath your body fared ſince your Doctor gave you the purge, which made you vomit up the Croſſe-keyes and the Miter? me thinkes you looke very coſtive upon the mat<g ref="char:EOLhyphen"/>ters?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Now you ſpeake of my lookes, have you forgot my Lord, how the Devill made two lookes over</hi> Lincolne? <hi>I would wiſh you to beware the third, leaſt you come home by wéeping croſſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>De'e heare me <hi>Canterbury,</hi> ſince your mind runs ſo much upon croſſes, <hi>I</hi> can tell ſuch ſtrange newes of a Croſſe, which <hi>I</hi> think will croſſe your humour to heare it. It is for
+<pb n="2" facs="tcp:172695:7"/>
+                  <!-- PDF PAGE 32 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:172695:7"/>
+                  <!-- PDF PAGE 32 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172695:8"/>
+                  <!-- PDF PAGE 33 -->certaine ſpoken, that Cheape-ſide Croſſe is quite defunct, and ſtands like one forſaken of her former Solicitors.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Why, what have they done to</hi> Cheape-ſide <hi>Croſſe? I thought that had not offended any body?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>It ſeemes it hath offended ſome bo<g ref="char:EOLhyphen"/>dy, For <hi>I</hi> am ſure they have torne downe part of the portraiture of the body of Chriſt, and the Cardinals Croſier ſtaffe, and the Crowne that was placed upon the Virgin Ma<g ref="char:EOLhyphen"/>ries head.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Now by my Holy-dame, I thinke that they were no Papiſts, that did it, but how can you approve this to be true, I am ſure that you were not there to ſée it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Are you ſo hard of beliefe, that you cannot beleeve any thing to be true unleſſe you ſee it? Then you will not beleeve that the two Popiſh Prieſts were drawne hang'd and quartered for offending the Kings Laws; whoſe heads were no ſooner ſet upon London Bridge, but <hi>Bensteed</hi> your young watch-man turn'd his towards the Tower, expecting a third man. Then you will not beleeve that the Lord <hi>Digby</hi> is gone beyond Sea? Then you will not beleeve that Colonell <hi>Lunsford</hi> is ta<g ref="char:EOLhyphen"/>ken, If you will not beleeve nothing but what
+<pb n="5" facs="tcp:172695:8"/>
+                  <!-- PDF PAGE 33 -->you ſee, it is in vaine to tell you any newes at all.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>But are you in mind that the diſ<g ref="char:EOLhyphen"/>figuring of</hi> Cheape-ſide <hi>Croſſe, is a greater diſtaſte to me then it is to your ſelfe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>It't pleaſe your graceleſſe grace my little Lord, you know that <hi>I</hi> ever hated Pa<g ref="char:EOLhyphen"/>piſtry from the beginning; for which cauſe you cauſed me to ſuffer a long time impriſon<g ref="char:EOLhyphen"/>ment. Moreover you thought to have ſeene an end of my life, but now I may chance to live to ſee your end.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>You talke like one that is over<g ref="char:EOLhyphen"/>ioy'd, but tell me one thing at your leiſure, have you given in your anſwer to the charge, which was the other day layd in againſt you at the Parliament? or have you never ſeene the</hi> Welch-mans Proteſtation?</p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p n="1">1. I would have you anſwer me to this queſtion, and then I ſhall anſwer you the bet<g ref="char:EOLhyphen"/>ter? What newes doe you heare from <hi>Rome?</hi> hath your ghoſtly father the Pope ever a par<g ref="char:EOLhyphen"/>don in ſtore for you? are you ſure that when you dye you ſhall be Canonized for a Saint? reſolve me that queſtion <hi>Canterbury.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Me thinks your tongue runs a little too faſt</hi> York, <hi>have you any more queſtions to aske me?</hi>
+               </p>
+            </sp>
+            <pb n="4" facs="tcp:172695:9"/>
+            <!-- PDF PAGE 34 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:172695:9"/>
+            <!-- PDF PAGE 34 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:172695:10"/>
+            <!-- PDF PAGE 35 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:172695:10"/>
+            <!-- PDF PAGE 35 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:172695:11"/>
+            <!-- PDF PAGE 36 -->
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Yes, Yes, more I thinke then you will be willing to anſwer to.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Let me heare your excellent wits; tis very well knowne that I have anſwered too many great matters in my time, there<g ref="char:EOLhyphen"/>fore I make no doubt but I ſhall be ready to give you ſatisfaction to the full.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Then I would have you tell me what you heare from the Cardinals, Monks, Fryers, Nuns, Popiſh Prieſts, Jeſuites, Seminaries, and Seducers in <hi>Rome,</hi> and other Countries, are they all friends with you? Is your grace in ſuch high favour with them, that they will ſend ſome of their Agents privily to convey you out of this ſtrong Tower. They intend ſure a practice, let them take heed of the <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Prentices, for <hi>Benſteeds</hi> death is not forgot<g ref="char:EOLhyphen"/>ten.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Fye</hi> Yorke <hi>forbeare, thou talkeſt to me in ſuch a rayling manner, that although I can, I will not anſwer thée; therefore reſt thy ſelfe content for this, I am perſwaded to that, if all thy faults were written in thy fore-head, thou wouldeſt appeare to be as bad, as who's worſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>
+                  <hi>Canterbury,</hi> if you are weary of my talking, I would alſo have you to be weary of your wicked deeds, and labour to ſerve
+<pb n="7" facs="tcp:172695:11"/>
+                  <!-- PDF PAGE 36 -->your Maker as a true Proteſtant ought to doe, and to be faithfull to the Kings Majeſty, and the Honourable Houſes of Parliament; in ſo doing, you may have peace of Conſcience in this life, and after death, your fins may be remitted, through the merits of our Savi<g ref="char:EOLhyphen"/>our.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Harke, harke, there is a Meſſenget comes, which hath brought me tydings that my dinner is ready, ſo</hi> Yorke <hi>adieu far this time.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>
+                  <hi>Canterbury</hi> farewell, remember the laſt counſell that I gave you, and as for my part I conclude, <hi>Hony ſoit qui mal I pence.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Stay</hi> Yorke, <hi>yet a little longer, I have one queſtion more to aske thée, which I had almoſt quite forgot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>
+                  <hi>I</hi> thought you were troubled with the ſimples, you have ſo many things to think on, that I thinke you'l forget every thing are it be long: what would you ſay to me if you could ſpeake?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Tell me this one thing in courteſie.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>What thing is that?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>What is the reaſon that ſo many Countrymen came up to</hi> London <hi>lately? I heare that thouſands of men came up in troopes, ſome on foot, and ſome on horſe back. What was the meaning of their comming?</hi>
+               </p>
+            </sp>
+            <pb n="6" facs="tcp:172695:12"/>
+            <!-- PDF PAGE 37 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:172695:12"/>
+            <!-- PDF PAGE 37 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:172695:13"/>
+            <!-- PDF PAGE 38 -->
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Sure enough <hi>Camerbury,</hi> they came not for any good will they bare to you.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Why ſhould they beare me any ill will?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>They ſay you have cauſed them to have worſhipped Idols, and that you would erect new Croſſes, with Popiſh Pictures a<g ref="char:EOLhyphen"/>bout them, and that they were forced to ſet up Altars in their church by your means, Theſe are things which Proteſtants neither can, nor wil indure.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Why, doth the Law lye in their hands?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>For certaine they made Petitions to the honourable Houſes of Parliament; to the end, that they would have all the Biſhops put downe for your ſake.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>And doe you underſtand that all the Biſhops ſhall be put downe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Yea, all the Popiſh Biſhops.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>Then what thinke you will become of all the Romiſh Catholikes?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <l>The Prieſts and Fryers may take their chance,</l>
+               <l>And walke a journey into <hi>France;</hi>
+               </l>
+               <l>The Jeſuites they may trudge to <hi>Spaine,</hi>
+               </l>
+               <l>And never more returne againe;</l>
+               <l>The Papiſts all may packe to <hi>Rome,</hi>
+               </l>
+               <l>And ſtay there till the day of doome.</l>
+            </sp>
+            <pb n="9" facs="tcp:172695:13"/>
+            <!-- PDF PAGE 38 -->
+            <sp>
+               <speaker>Cant.</speaker>
+               <l>
+                  <hi>If all theſe things you live to ſee,</hi>
+               </l>
+               <l>
+                  <hi>Then will a merry</hi> England <hi>bee.</hi>
+               </l>
+            </sp>
+            <p>Come a way to dinner.</p>
+         </div>
+         <div type="song">
+            <head>Enter a poore Muſitioner with a new SONG.</head>
+            <lg>
+               <head>FIDLER.</head>
+               <l>
+                  <hi>May it pleaſe both your graces to heare a new Song,</hi>
+               </l>
+               <l>
+                  <hi>In which on my word I meane no body wrong.</hi>
+               </l>
+            </lg>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Is't worth the hearing?</p>
+            </sp>
+            <sp>
+               <speaker>Fid.</speaker>
+               <p>I hope it will give your Lordſhips con<g ref="char:EOLhyphen"/>tent.</p>
+            </sp>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Come lets heare your Song.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <opener>Here beginneth the Song, to the tune of, <hi>Banks</hi> his Bill of Fare.</opener>
+            <lg>
+               <head>1.</head>
+               <l>I Am a poore man and ſcarce worth a ſhilling,</l>
+               <pb n="8" facs="tcp:172695:14"/>
+               <!-- PDF PAGE 39 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:172695:14"/>
+               <!-- PDF PAGE 39 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:172695:15"/>
+               <!-- PDF PAGE 40 -->
+               <l>As unto my neighbours is too too well knowne,</l>
+               <l>Yet to live upright in the world I am willing,</l>
+               <l>I covet for nothing but what is mine owne:</l>
+               <l n="2">2. And now in the firſt place to tell you my mind,</l>
+               <l>For falſe-hearted people I care not a ſtraw,</l>
+               <l>This is my conceit by experience I find,</l>
+               <l>
+                  <hi>There's none but offenders that feareth the Law.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>3.</head>
+               <l>I am not in queſtion cal'd for my Religion,</l>
+               <l>From every vile Sect I my ſelfe can with-hold,</l>
+               <l>Both Papiſt and Atheiſt I hold in deriſion,</l>
+               <l>Ile not wrong my conſcience for lucre of gold:</l>
+               <l n="4">4. My tongue I will governe by the line of reaſon,</l>
+               <l>From every diſſembler myſelfe Ile with<g ref="char:EOLhyphen"/>draw.</l>
+               <l>I hate all ſuch Rebels that dares to ſpeake Treaſon,</l>
+               <l>
+                  <hi>There's none but offenders that feareth the Law.</hi>
+               </l>
+            </lg>
+            <pb n="11" facs="tcp:172695:15"/>
+            <!-- PDF PAGE 40 -->
+            <lg>
+               <head>5.</head>
+               <l>I marvaile what harme hath old Cheape-ſide Croſſe done,</l>
+               <l>That ſome meer mechanicks hath wrought it ſpight,</l>
+               <l>To disfigure Picture of <hi>Mary</hi> and her Son,</l>
+               <l>And dare not to ſhew forth their heads by day-light:</l>
+               <l n="6">6. They alſo have pul'd down the Croſier Staffe</l>
+               <l>Which once was faſt plac'tin the Cardinals claw,</l>
+               <l>This ſport cannot chuſe but make Lucifer laugh,</l>
+               <l>
+                  <hi>There's none but offenders that feareth the Law.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>7.</head>
+               <l>One thing above all the reſt I doe admire</l>
+               <l>Why ſo many vulgars are in an uproare?</l>
+               <l>To put downe the Biſhops is that they deſire.</l>
+               <l>Although they can ſhew no good reaſon wherefore:</l>
+               <l n="8">8. But now to conclude leaſt I ſhould you offend,</l>
+               <l>And you for my Song would no money me draw,</l>
+               <pb n="10" facs="tcp:172695:16"/>
+               <!-- PDF PAGE 41 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:172695:16"/>
+               <!-- PDF PAGE 41 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:172695:17"/>
+               <!-- PDF PAGE 42 -->
+               <l>Ile ſhut up my Pipes and ſo make an end,</l>
+               <l>
+                  <hi>There's none but offenders that feareth the Law.</hi>
+               </l>
+            </lg>
+            <sp>
+               <speaker>Yor.</speaker>
+               <p>Why there's no hurt at all in this Song upon my word.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>If all that reads Pamphlets, and ſings Ballads about the City of London and in the Country, did no worſe then this, I ſhould bee a great deale better pleaſed with them: Hold there is ſomething for thy reward.</p>
+            </sp>
+            <lg>
+               <l>My Lords I thanke you both, although your lives ſtands in jeopardy.</l>
+               <l>The Fidler hopes to live ſo long, to ſee your heeles at liberty.</l>
+            </lg>
+            <closer>
+               <signed>L. P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172695:17"/>
+            <!-- PDF PAGE 42 -->
+            <pb n="12" facs="tcp:172695:18"/>
+            <!-- PDF PAGE 43 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172695:18"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="12" facs="tcp:172695:19"/>
+            <!-- PDF PAGE 44 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172695:19"/>
+            <!-- PDF PAGE 44 -->
+         </div>
+      </body>
+   </text>
+</TEI>
